@@ -2,9 +2,9 @@
 A test for IM 215 clases
 
 -----
-Hello world!
+#Hello world!
 
 
---fff
---fff
---ddd
+*fff
+*fff
+*ddd
