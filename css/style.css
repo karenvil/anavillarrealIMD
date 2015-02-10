@@ -217,8 +217,7 @@ body {
 }
 
 #slide-1 {
-	background-image: url('../images/bg1-1-copy.jpg');
-	color: #ffffff;
+	/*background-image: url('../images/bg1-1-copy.jpg');
     -webkit-background-size: 100%;
     -moz-background-size: 100%;
     -o-background-size: 100%;
@@ -230,7 +229,9 @@ body {
     background-size: cover;
     width: 100%;
 	background-attachment: relative;
-	background-position: center center;
+	background-position: center center;*/
+	
+	color: #ffffff;
 }
 
 #slide-1 h1 {
