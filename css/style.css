@@ -189,6 +189,7 @@ body {
 	.nav li[data-slide="3"] {
 		background-color: #e74c3c;
 	}
+
 	
 	.nav li[data-slide="4"] {
 		background-color: #34495e;
@@ -216,8 +217,7 @@ body {
 }
 
 #slide-1 {
-	background-image: url('../images/bg1-1.png');
-	color: #ffffff;
+	/*background-image: url('../images/bg1-1-copy.jpg');
     -webkit-background-size: 100%;
     -moz-background-size: 100%;
     -o-background-size: 100%;
@@ -229,7 +229,9 @@ body {
     background-size: cover;
     width: 100%;
 	background-attachment: relative;
-	background-position: center center;
+	background-position: center center;*/
+	
+	color: #ffffff;
 }
 
 #slide-1 h1 {
@@ -438,6 +440,10 @@ body {
 		width: 100%;
 	}
 }
+
+
+
+
 
 #slide-4 {
 	background-color: #34495e;
