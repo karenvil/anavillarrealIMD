@@ -33,6 +33,35 @@
 	height: 1px;
 }
 
+
+
+
+
+.team-member {
+    margin-bottom: 50px;
+    text-align: center;
+}
+
+.team-member img {
+    margin: 0 auto;
+    border: 7px solid #fff;
+}
+
+.team-member h4 {
+    margin-top: 25px;
+    margin-bottom: 0;
+    text-transform: none;
+}
+
+.team-member p {
+    margin-top: 0;
+}
+
+
+
+
+
+
 html, body {
 	height: 100%;
 	width: 100%;
@@ -230,7 +259,6 @@ body {
     width: 100%;
 	background-attachment: relative;
 	background-position: center center;*/
-     text-align: center;
     color: #fff;
     background-attachment: scroll;
     background-image: url(../images/bg1-1-copy.jpg);
