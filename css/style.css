@@ -6,6 +6,11 @@
  * Version: 1.0
  * URL: http://blacktie.co
  */
+
+
+
+
+
  
 .font-thin {
 	font-family: "Titillium Web", sans-serif;
@@ -163,6 +168,8 @@ body {
 	background-color: #e74c3c !important;
 }
 
+
+
 #special-active-menu-4 {
 	background-color: #34495e !important;
 }
@@ -276,10 +283,6 @@ body {
     
 
 }
-
-
-
-
 
 #slide-1 h1 {
 	padding-top: 130px;
@@ -432,7 +435,12 @@ body {
 }
 
 #slide-3 {
-	background-color: #000;
+	background-color: yellowgreen;
+	color: #e4e6e5;
+	padding-top: 90px;
+
+
+	/*background-color: grey;
 	margin: 0 auto;
 	overflow: hidden;
 	padding: 0;
@@ -485,10 +493,13 @@ body {
 @media (max-width: 767px) {
 	#slide-3 .col-12 {
 		width: 100%;
-	}
+	}*/
 }
 
-
+#slide-3 i {
+		font-size: 80px;
+		color: white;
+	}
 
 
 
@@ -665,3 +676,52 @@ body {
 .navigation-slide {
 	cursor: pointer;
 }
+
+
+
+
+
+
+
+
+
+
+
+
+/* ================== PORTFOLIO IMAGES HOVER EFFECT ================== */
+/* Effects also are controled by hover.zoom.js */
+.zoom { 
+    display:block; 
+    position:relative; 
+    overflow:hidden; 
+    background:transparent url(../img/loader.gif) no-repeat center;
+}
+
+
+    .zoomOverlay {
+        position:absolute;
+        top:0; left:0;
+        bottom:0; right:0;
+        display:none;
+        background-image:url(../img/zoom.png);
+        background-repeat:no-repeat;
+        background-position:center;
+    }
+
+.zoom2 {
+	opacity: 1;
+}
+
+.zoom2:hover {
+	opacity: 0.5;
+}
+
+
+
+
+
+
+
+
+
+
