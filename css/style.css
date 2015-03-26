@@ -78,7 +78,7 @@ html, body {
 }
 
 body {
-	background-color: #2f2f2f;
+	background-color: #yellowgreen;
 	font-family: "Titillium Web", sans-serif;
 	font-weight: normal;
 	overflow-x: hidden;
@@ -435,12 +435,12 @@ body {
 }
 
 #slide-3 {
-	background-color: yellowgreen;
+	/*background-color: yellowgreen;
 	color: #e4e6e5;
 	padding-top: 90px;
 
 
-	/*background-color: grey;
+	background-color: grey;
 	margin: 0 auto;
 	overflow: hidden;
 	padding: 0;
