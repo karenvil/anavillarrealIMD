@@ -501,10 +501,10 @@ body {
 		color: white;
 	}
 
-#slide-3 h6 {
-	font-family: "Titillium Web", sans-serif;
-	font-weight: 1200;
-	/*font-size: 1000;*/
+h6 {
+	font-family: sans-serif;
+	/*font-weight: 1200;*/
+	font-size: 30px;
 	color: white;
 	}
 
@@ -736,6 +736,9 @@ body {
 	padding-bottom: 50px;
 }
 
+.centered {
+    text-align: center;
+}
 
 
 
