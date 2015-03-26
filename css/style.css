@@ -442,12 +442,7 @@ body {
 }
 
 #slide-3 {
-	/*background-color: yellowgreen;
-	color: #e4e6e5;
-	padding-top: 90px;
-
-
-	background-color: grey;
+	background-color: #000;
 	margin: 0 auto;
 	overflow: hidden;
 	padding: 0;
@@ -500,14 +495,10 @@ body {
 @media (max-width: 767px) {
 	#slide-3 .col-12 {
 		width: 100%;
-	}*/
-	font color: white;
+	}
 }
 
-#slide-3 i {
-		font-size: 80px;
-		color: white;
-	}
+
 
 h6 {
 	font-family: sans-serif;
