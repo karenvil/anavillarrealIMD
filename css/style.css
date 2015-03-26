@@ -42,14 +42,14 @@
 
 img-responsive
 
-aside.clients img {
+/*aside.clients img {
     margin: 50px auto;
-}
+}*/
 
 
 
 
-.team-member {
+/*.team-member {
     margin-bottom: 50px;
     text-align: center;
 }
@@ -70,7 +70,7 @@ aside.clients img {
 }
 
 
-
+*/
 
 
 
@@ -80,12 +80,12 @@ html, body {
 }
 
 body {
-	background-color: #yellowgreen;
+	background-color: #2f2f2f;
 	font-family: "Titillium Web", sans-serif;
 	font-weight: normal;
 	overflow-x: hidden;
 	-webkit-font-smoothing: antialiased !important;
-	font color: white;
+	
 }
 
 .justify-text {
@@ -171,7 +171,6 @@ body {
 #special-active-menu-3 {
 	background-color: #e74c3c !important;
 }
-
 
 
 #special-active-menu-4 {
@@ -368,7 +367,7 @@ body {
 	.title-row {
 		font-size: 45px;
 		padding-bottom: 20px;
-		font color: white;
+		
 
 	}
 	
@@ -554,7 +553,7 @@ h6 {
 	.with-hover-text{
 		margin-bottom: 2em;
 		margin-top: 1em;
-		font color: white;
+		
 	}
 }
 	
@@ -681,45 +680,6 @@ h6 {
 
 .navigation-slide {
 	cursor: pointer;
-}
-
-
-
-
-
-
-
-
-
-
-
-
-/* ================== PORTFOLIO IMAGES HOVER EFFECT ================== */
-/* Effects also are controled by hover.zoom.js */
-.zoom { 
-    display:block; 
-    position:relative; 
-    overflow:hidden; 
-    background:transparent url(../img/loader.gif) no-repeat center;
-}
-
-
-    .zoomOverlay {
-        position:absolute;
-        top:0; left:0;
-        bottom:0; right:0;
-        display:none;
-        background-image:url(../img/zoom.png);
-        background-repeat:no-repeat;
-        background-position:center;
-    }
-
-.zoom2 {
-	opacity: 1;
-}
-
-.zoom2:hover {
-	opacity: 0.5;
 }
 
 
