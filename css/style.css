@@ -10,21 +10,23 @@
 
 
 
-
  
 .font-thin {
 	font-family: "Titillium Web", sans-serif;
 	font-weight: 200;
+	font color: white;
 }
 
 .font-semibold {
 	font-family: "Titillium Web", sans-serif;
 	font-weight: 600;
+	font color: white;/
 }
 
 .font-light {
 	font-family: "Titillium Web", sans-serif;
 	font-weight: 300;
+	font color: white;
 }
 
 * {
@@ -83,6 +85,7 @@ body {
 	font-weight: normal;
 	overflow-x: hidden;
 	-webkit-font-smoothing: antialiased !important;
+	font color: white;
 }
 
 .justify-text {
@@ -95,6 +98,7 @@ body {
 	border-bottom: 0 none;
 	font-size: 12px;
 	transition: .25s all linear;
+
 }
 
 .navbar.inv {
@@ -363,7 +367,9 @@ body {
 
 	.title-row {
 		font-size: 45px;
-		padding-bottom: 50px;
+		padding-bottom: 20px;
+		font color: white;
+
 	}
 	
 	.line-row .hr {
@@ -495,6 +501,7 @@ body {
 	#slide-3 .col-12 {
 		width: 100%;
 	}*/
+	font color: white;
 }
 
 #slide-3 i {
@@ -556,6 +563,7 @@ h6 {
 	.with-hover-text{
 		margin-bottom: 2em;
 		margin-top: 1em;
+		font color: white;
 	}
 }
 	
@@ -730,16 +738,19 @@ h6 {
 .mt {
 	margin-top: 40px;
 	margin-bottom: 40px;
+	font color: white;
 }
 
 .pt {
 	padding-top: 30px;
 	padding-bottom: 30px;
 	background-color: yellowgreen;
+	font color: white;
 }
 
 .centered {
     text-align: center;
+    font color: white;
 }
 
 
