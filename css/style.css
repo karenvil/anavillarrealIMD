@@ -6,23 +6,11 @@
  * Version: 1.0
  * URL: http://blacktie.co
  */
+   /*  Here /i== */
+
 
 #slide-15 {
-	/*background-image: url('../images/bg1-1-copy.jpg');
-    -webkit-background-size: 100%;
-    -moz-background-size: 100%;
-    -o-background-size: 100%;
-    background-size: 100%;
-
-    -webkit-background-size: cover;
-    -moz-background-size: cover;
-    -o-background-size: cover;
-    background-size: cover;
-    width: 100%;
-	background-attachment: relative;
-	background-position: center center;*/
     background-color: #20B2AA;
-   
 }
 
 #slide-15 h1 {
@@ -99,28 +87,7 @@
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+/* Ana  color extras */
  .anaText{
  	font-color: white;
  }
@@ -133,6 +100,10 @@
 .anaColorPdf{
 	background-color: #f39c12;
 }
+
+/* Ana  color extras */
+
+
 
  
 .font-thin {
@@ -306,18 +277,18 @@ body {
 	background-color: #e67e22 !important;
 }
 
-@media (min-width: 768px) and (max-width: 991px) {
+/*@media (min-width: 768px) and (max-width: 991px) {
 	#slide-4 .content-row h2 {
 		min-height: 6em;
 	}
-}
+}*/
 
-@media (max-width: 767px) {
+/*@media (max-width: 767px) {
 	
 	.nav li {
 		text-align: left;
 		white-space: nowrap;
-	}
+	}*/
 	
 	.navbar-responsive-collapse  {
 		width: 100%;
@@ -416,7 +387,7 @@ body {
 	padding-top: 130px;
 }
 
-@media (max-width: 991px) {
+/*@media (max-width: 991px) {
 	#slide-1 {
 		background-position: -70% 0, 170% 0;
 	}
@@ -426,7 +397,7 @@ body {
 	#slide-1 {
 		background-image: none;
 	}
-}
+}*/
 
 	#home-row-1,
 	#home-row-2 {
