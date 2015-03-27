@@ -1,8 +1,8 @@
 
-// $(document).ready(function(e) {
-// 	$('.with-hover-text, .regular-link').click(function(e){
-// 		e.stopPropagation();
-// 	});
+$(document).ready(function(e) {
+	$('.with-hover-text, .regular-link').click(function(e){
+		e.stopPropagation();
+	});
 	
 	/***************
 	* = Hover text *
