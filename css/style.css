@@ -124,6 +124,14 @@
 	font color: white;
 }
 
+.font-light2 {
+	font-family: "Titillium Web", sans-serif;
+	font-weight: 250;
+	font color: white;
+}
+
+
+
 * {
 	position: relative;
 }
@@ -521,7 +529,14 @@ body {
 		padding-bottom: 26px;
 		padding-top: 26px;
 	}
-	
+
+	.subtitle-row2 {
+		font-size: 30px;
+		padding-bottom: 26px;
+		padding-top: 26px;
+	}
+
+
 	.content-row {
 		padding-top: 29px;
 	}
