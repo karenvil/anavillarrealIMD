@@ -255,7 +255,7 @@ body {
 }
 
 #special-active-menu-1,
-#special-active-menu-15,
+
 #special-active-menu-6 {
 	background-color: #4e4e4e !important;
 }
@@ -264,7 +264,7 @@ body {
 	background-color: #1abc9c !important;
 }
 
-#special-active-menu-3 {
+#special-active-menu-15 {
 	background-color: #e74c3c !important;
 }
 
@@ -281,7 +281,7 @@ body {
 	#slide-4 .content-row h2 {
 		min-height: 6em;
 	}
-}*/
+}
 
 /*@media (max-width: 767px) {
 	
