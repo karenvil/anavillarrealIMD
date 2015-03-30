@@ -6,7 +6,8 @@
  * Version: 1.0
  * URL: http://blacktie.co
  */
-   /*  Here /i== */
+
+
 
 
 #slide-15 {
@@ -325,17 +326,19 @@ body {
 		margin-right: 12px;
 	}
 			
-	.nav li[data-slide="1"],
+	.nav li[data-slide="1"]{
+ background-color: #77B31F;
+	}
 	.nav li[data-slide="6"] {
 		background-color: #2f2f2f;
 	}
 	
 	.nav li[data-slide="2"] {
-		background-color: #1abc9c;
+		background-color: #B24668;
 	}
 	
 	.nav li[data-slide="15"] {
-		background-color: #e74c3c;
+		background-color: #20B2AA;
 	}
 
 	
@@ -344,7 +347,7 @@ body {
 	}
 	
 	.nav li[data-slide="5"] {
-		background-color: #e67e22;
+		background-color: #F39C12;
 	}
 	
 	.navbar-brand {
@@ -814,6 +817,14 @@ h6 {
     text-align: center;
     font color: white;
 }
+
+
+
+
+
+
+
+
 
 
 
